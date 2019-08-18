@@ -5,6 +5,12 @@
 	
 	$responses["i'm fine"] = "Good. I'm happy about that.";
 	$responses["can i ask you anything?"] = "sure go ahead";
+	$responses["who are you"] ="im just a robot";
+	$responses["stupid"] ="mind your language please";
+	$responses["who am i?"] ="i think you can remember your name,im just a Robot!!";
+	$responses["kenya"] ="yes its a nice country";
+	$responses["im happy to hear about that"] ="Always welcome";
+
 	
 	$q = $_GET["q"];
 
