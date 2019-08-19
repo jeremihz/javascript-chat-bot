@@ -29,6 +29,6 @@
 			
 		}
 	}
-	$noresponse = "Sorry I'm still learning. Hence my responses are limited. Ask something else.";
+	$noresponse = "Sorry I'm still learning.Ask something else.";
 	echo $response === "" ? $noresponse : $response;
 ?>
